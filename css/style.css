@@ -15,6 +15,9 @@ header img {
 }
 
 header ul li {
-    text-decoration: none;
     list-style: none;
+}
+
+header ul li a {
+    text-decoration: none;
 }
