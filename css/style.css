@@ -19,13 +19,13 @@ header {
     display: flex;
 }
 
-header img {
+#logo {
     width: fit-content;
     height: fit-content;
 }
 
 nav ul {
-    width: 500px;
+    width: 550px;
     height: 50px;
     margin-left: 300px;
     font-size: 18px;
@@ -39,4 +39,12 @@ nav ul {
 nav ul li a {
     text-decoration: none;
     color: #133364;
+}
+
+#mode {
+    width: 32px;
+    height: 32px;
+    margin: 9px;
+    margin-left: auto;
+    margin-right: 0;
 }
