@@ -11,12 +11,13 @@
 body {
     width: auto;
     height: auto;
-    margin: 45px 130px;
+    margin: 4% 9%;
     font-family: 'Poppins-Medium';
 }
 
 header {
     display: flex;
+    flex-grow: 1;
 }
 
 #logo {
@@ -47,4 +48,16 @@ nav ul li a {
     margin: 9px;
     margin-left: auto;
     margin-right: 0;
+}
+
+main article {
+    flex-grow: 1;
+    margin-top: 20px;
+    height: fit-content;
+}
+
+main article section {
+    text-align: center;
+    background-color: #133364;
+    margin-top: 100px;
 }
