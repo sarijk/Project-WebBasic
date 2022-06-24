@@ -28,6 +28,8 @@ nav ul {
     width: 500px;
     height: 50px;
     margin-left: 300px;
+    font-size: 18px;
+    letter-spacing: 0.05em;
     list-style: none;
     display: flex;
     justify-content: space-between;
@@ -36,4 +38,5 @@ nav ul {
 
 nav ul li a {
     text-decoration: none;
+    color: #133364;
 }
