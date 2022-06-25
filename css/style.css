@@ -58,5 +58,14 @@ main article {
 
 main article section {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 120px;
+    margin-bottom: 30px;
+}
+
+main article section h2 {
+    margin-top: 20px;
+}
+
+main article section p {
+    margin-top: 20px;
 }
