@@ -100,6 +100,12 @@ nav ul li a {
     padding: 15px;
 }
 
+#search input {
+    width: 575px;
+    height: 24px;
+    border: none;
+}
+
 #search button {
     width: 100px;
     height: 35px;
